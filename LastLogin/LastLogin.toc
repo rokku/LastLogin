@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: LastLogin
+## Notes: Displays the date and time of your last login.
+## Author: YourName
+## Version: 1.0
+## SavedVariablesPerCharacter: LastLoginData
+
+LastLogin.lua
